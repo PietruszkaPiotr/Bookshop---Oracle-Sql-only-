@@ -10,7 +10,7 @@ Przechowuje także informacje na temat pracowników i ich zarobków.
 
 Create date: 06.2018
 
-Date base that presents normal Bookshop.
+Datebase that presents normal Bookshop.
 It contains information about which and how many books bookshop has. Every bookshop has title, price, author, etc.
 Also there are basic information about clients, that can get discount on books.
 There are information about employees and their earnings.
